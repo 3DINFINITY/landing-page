@@ -86,22 +86,13 @@ class Landing extends Component {
                                                         <AnchorLink className="nav-link" href='#img-bg'>Home</AnchorLink>
                                                     </li>
                                                     <li className="nav-item">
-                                                        <AnchorLink className="nav-link" href='#feature'>Features</AnchorLink>
+                                                        <AnchorLink className="nav-link" href='#feature'>Products</AnchorLink>
                                                     </li>
                                                     <li className="nav-item">
-                                                        <AnchorLink className="nav-link" href='#demo'>Demo</AnchorLink>
+                                                        <AnchorLink className="nav-link" href='#admin'>Contact</AnchorLink>
                                                     </li>
                                                     <li className="nav-item">
-                                                        <AnchorLink className="nav-link" href='#admin'>Admin</AnchorLink>
-                                                    </li>
-                                                    <li className="nav-item">
-                                                        <AnchorLink className="nav-link" href='#email'>Email Templates</AnchorLink>
-                                                    </li>
-                                                    <li className="nav-item">
-                                                        <AnchorLink className="nav-link" href='#core'>Core Features</AnchorLink>
-                                                    </li>
-                                                    <li className="nav-item">
-                                                        <AnchorLink className="nav-link" href='#footer'>Footer</AnchorLink>
+                                                        <AnchorLink className="nav-link" href='#demo'>About Us</AnchorLink>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -124,8 +115,8 @@ class Landing extends Component {
                     <div className="container-fluid">
                         <div className="main-contain">
                             <div>
-                                <h1 className="m-0">MULTI<span>KART</span></h1>
-                                <h3 className="m-0">The <span>BEST SELLING</span> Minimal Theme</h3>
+                                <h1 className="m-0">3D infinity</h1>
+                                <h3 className="m-0">Printing Services</h3>
                                 <img src={`${process.env.PUBLIC_URL}/assets/images/landing-page/text.png`} alt="" className="img-fluid" />
                             </div>
                         </div>
